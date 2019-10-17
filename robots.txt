@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://joothohnu.provemewrongjack.com/sitemap.xml
